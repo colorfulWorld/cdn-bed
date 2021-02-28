@@ -1,2 +1,2 @@
-# warehouse-blog-image-bed
+# cdn-bed
 搭建jsDelivr CDN
